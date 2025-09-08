@@ -19,4 +19,4 @@ Below is a visual funnel chart showing user flow through the platform:
 ![Funnel Chart](funnel_chart.png)
 
 ## 📁 File Included
-- `AliExpressFunnelAnalysis.ipynb` — the main Jupyter Notebook with full analysis
+- `AliExpressFunnelAnalysis.ipynb` - the main Jupyter Notebook with full analysis
